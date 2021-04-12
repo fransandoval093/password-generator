@@ -1,6 +1,6 @@
 # password-generator
-This is a javascript based dialog box that will generate a password based on sets of criteria
-## Criteria
+These javascript based dialog boxes that will generate a password of a specified length and criteria.
+## Features
 
 ``` python
 GIVEN I need a new, secure password
@@ -19,6 +19,8 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 ```
+
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
