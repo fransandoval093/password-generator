@@ -21,7 +21,8 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 ```
-![Link to deployed Password Generator webpage](https://fransandoval093.github.io/password-generator/)
+![Link to deployed Password Generator webpage] (https://fransandoval093.github.io/password-generator/)
+
 ![Image screenshot of Password Generator](password-generator.png)
 
 
